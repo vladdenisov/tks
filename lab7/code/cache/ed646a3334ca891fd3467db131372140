@@ -1,0 +1,50 @@
+HTTP/1.1 302 Found
+Location: https://www.google.com/?gws_rd=ssl
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-LWr23S7xx2FnObZJbA-Rfg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Cross-Origin-Opener-Policy: same-origin-allow-popups; report-to="gws"
+Report-To: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}
+Permissions-Policy: unload=()
+Date: Sun, 19 Jan 2025 16:47:15 GMT
+Server: gws
+Content-Length: 231
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: _ga=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=www.google.com
+Set-Cookie: _ym_uid=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=www.google.com
+Set-Cookie: _ym_d=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=www.google.com
+Set-Cookie: singularToken=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=www.google.com
+Set-Cookie: _ga_LMQ7T9EJRS=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=www.google.com
+Set-Cookie: _ga_R7FMFVTT7G=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=www.google.com
+Set-Cookie: token=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=www.google.com
+Set-Cookie: _ga=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.www.google.com
+Set-Cookie: _ym_uid=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.www.google.com
+Set-Cookie: _ym_d=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.www.google.com
+Set-Cookie: singularToken=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.www.google.com
+Set-Cookie: _ga_LMQ7T9EJRS=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.www.google.com
+Set-Cookie: _ga_R7FMFVTT7G=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.www.google.com
+Set-Cookie: token=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.www.google.com
+Set-Cookie: _ga=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=google.com
+Set-Cookie: _ym_uid=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=google.com
+Set-Cookie: _ym_d=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=google.com
+Set-Cookie: singularToken=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=google.com
+Set-Cookie: _ga_LMQ7T9EJRS=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=google.com
+Set-Cookie: _ga_R7FMFVTT7G=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=google.com
+Set-Cookie: token=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=google.com
+Set-Cookie: _ga=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com
+Set-Cookie: _ym_uid=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com
+Set-Cookie: _ym_d=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com
+Set-Cookie: singularToken=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com
+Set-Cookie: _ga_LMQ7T9EJRS=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com
+Set-Cookie: _ga_R7FMFVTT7G=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com
+Set-Cookie: token=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.google.com
+Set-Cookie: AEC=AZ6Zc-WxCpRhnTWWi4A_o7d1lOJxmb4QkN3X6DnjWrDTrY_LlqB2UXY-Nw; expires=Fri, 18-Jul-2025 16:47:15 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Connection: close
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="https://www.google.com/?gws_rd=ssl">here</A>.
+</BODY></HTML>
